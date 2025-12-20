@@ -1,30 +1,19 @@
-<h1 align="center">Heyyo there!, I'm Rifky</h1>
+<h1 align="center">Hi there!, I'm Rifky</h1>
 <p align="center">
-  <em>Informatics Engineering Student • Currently learning and exploring my focus • Tech Enthusiast</em>
+  <em>Informatics Engineering Student • Currently Learning & Exploring My Focus on Tech</em>
+</p>
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/evangelion/images/4/4a/Shinji1.2.png/revision/latest/scale-to-width-down/2311?cb=20220519011121" width="70%" />
 </p>
 
 ---
 
-### About Me
+### About
 I'm Rifky, an Informatics Engineering student who enjoys building clean UIs, learning how systems work, and exploring technology step by step.
-
 Fun fact: I’ve been into computers since I was **4 years old**, from tinkering with PCs to now actually studying and building with code.
 
-- 💻 Learning: **Laravel, JavaScript, Tailwind, Python**
-- 🎨 Interested in UI/UX and Visualization
-- 🌙 Mostly active at night
-- 🧠 Curious who want to research everything
-
----
-<p align="center">
-  <img alt="Shinji Ikari" src="https://static.wikia.nocookie.net/evangelion/images/4/4a/Shinji1.2.png/revision/latest/scale-to-width-down/2311?cb=20220519011121" width="75%" />
-</p>
-
----
-
-### Learning & Exploring
-Right now I’m still **learning, experimenting, and trying things out**.
-
+Right now I’m still learning, experimenting, and trying things out.
 I build small projects while juggling college work. Mostly to understand concepts better, break things, fix them, and slowly improve along the way.
 
 No rush, just tryna make some consistent progress (i wish).
@@ -43,10 +32,14 @@ No rush, just tryna make some consistent progress (i wish).
 
 ---
 
-### 🔗 Find Me
-<p>
+<p align="center">
+  <a href="https://github.com/kayeprojects">GitHub</a> ·
   <a href="https://instagram.com/rifkyrofiqq">Instagram</a> ·
   <a href="https://linkedin.com/in/rifkyrofiqq">LinkedIn</a>
+</p>
+
+<p align="center">
+  <sub>learning • exploring • building</sub>
 </p>
 
 <p align="center">
