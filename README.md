@@ -5,7 +5,7 @@
 
 ---
 
-### ✨ About Me
+### About Me
 I'm Rifky, an Informatics Engineering student who enjoys building clean UIs, learning how systems work, and exploring technology step by step.
 
 Fun fact: I’ve been into computers since I was **4 years old**, from tinkering with PCs to now actually studying and building with code.
